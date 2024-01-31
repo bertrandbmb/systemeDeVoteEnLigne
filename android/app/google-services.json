@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117162943138",
+    "project_id": "mypolling-88ed8",
+    "storage_bucket": "mypolling-88ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117162943138:android:6e3c08f597486d97402dfb",
+        "android_client_info": {
+          "package_name": "com.example.mypolling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv1PQ1AR385Ju7qNOciBi8wmixdmIAJRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
